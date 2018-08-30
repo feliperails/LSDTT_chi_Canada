@@ -1,14 +1,10 @@
-BYTEORDER      I
-LAYOUT         BIL
-NROWS          15453
-NCOLS          9834
-NBANDS         1
-NBITS          16
-BANDROWBYTES   19668
-TOTALROWBYTES  19668
-PIXELTYPE      SIGNEDINT
-ULXMAP         -123.373611111104
-ULYMAP         53.4474999999991
-XDIM           0.000277777777777814
-YDIM           0.000277777777777815
-NODATA         -32768
+ENVI
+samples = 4917
+lines   = 7727
+bands   = 1
+data type = 2
+interleave = bsq
+file type = ENVI Standard
+header offset = 0
+byte order = 0
+data ignore value = -3.276800e+004
